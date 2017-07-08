@@ -1,0 +1,27 @@
+
+i3 is a tiling window manager, completely written from scratch. The target platforms are GNU/Linux and BSD operating systems, our code is Free and Open Source Software (FOSS) under the BSD license. i3 is primarily targeted at advanced users and developers.
+
+Keyboard Shortcuts:
+
+mod+Return   Open terminal
+mod+d        Open d-menu. D-menu is a menu where any app/command can be searched & run.
+mod+f        Fullscreen
+mod+h        To open next window horizontally
+mod+v        To open next window vertically
+mod+r        Resize a window. It will open resize mode. Press arrow keys to resize and press return to exit resize mode.
+mod+2        Go to workspace 2
+mod+Shift+2  Shift selected/focused window to workspace 2
+mod+Shift+q  Close a window
+mod+Shift+r  Restart i3 without closing runing windows
+mod+Shift+e  exit i3
+mod+Ctrl+l   lock screen
+mod+s        stacking mode
+mod+e        tiling mode
+mod+w        tab mode
+Alt+Shift    Switch to Bangla keyboard 
+
+-->mod key is typically the win key.
+-->return key is the enter key.
+
+For more visit- https://i3wm.org/docs/userguide.html
+ 
